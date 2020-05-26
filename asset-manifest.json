@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youtube-Search-React/static/css/main.fc401eec.chunk.css",
+    "main.js": "/Youtube-Search-React/static/js/main.6caabdbd.chunk.js",
+    "main.js.map": "/Youtube-Search-React/static/js/main.6caabdbd.chunk.js.map",
+    "runtime-main.js": "/Youtube-Search-React/static/js/runtime-main.9328de00.js",
+    "runtime-main.js.map": "/Youtube-Search-React/static/js/runtime-main.9328de00.js.map",
+    "static/js/2.b2ff9aa8.chunk.js": "/Youtube-Search-React/static/js/2.b2ff9aa8.chunk.js",
+    "static/js/2.b2ff9aa8.chunk.js.map": "/Youtube-Search-React/static/js/2.b2ff9aa8.chunk.js.map",
+    "index.html": "/Youtube-Search-React/index.html",
+    "precache-manifest.f253bb87c23c0d0002a655c1a102dadf.js": "/Youtube-Search-React/precache-manifest.f253bb87c23c0d0002a655c1a102dadf.js",
+    "service-worker.js": "/Youtube-Search-React/service-worker.js",
+    "static/css/main.fc401eec.chunk.css.map": "/Youtube-Search-React/static/css/main.fc401eec.chunk.css.map",
+    "static/js/2.b2ff9aa8.chunk.js.LICENSE.txt": "/Youtube-Search-React/static/js/2.b2ff9aa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9328de00.js",
+    "static/js/2.b2ff9aa8.chunk.js",
+    "static/css/main.fc401eec.chunk.css",
+    "static/js/main.6caabdbd.chunk.js"
+  ]
+}
